@@ -21,3 +21,7 @@
  ```bash
  https://www.cherryservers.com/blog/install-phpmyadmin-on-ubuntu
  ```
+ Referensi Code
+ ```bash
+ https://blog.ruangdeveloper.com/crud-sederhana-menggunakan-php-dan-mysql/
+ ```
